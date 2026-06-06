@@ -1,49 +1,33 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      WELCOME BANNER                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=220&section=header&text=Hi%20There!%20I'm%20Fathi%20Mahmoud%20👋&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20.NET%20Developer%20%7C%20Egypt%20🇪🇬&descAlignY=58&descSize=18&animation=fadeIn)
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=220&section=header&text=Hey%20There!%20I'm%20YOUR_NAME%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20.NET%20Developer%20%7C%20Building%20Scalable%20Web%20Solutions&descAlignY=58&descSize=18&animation=fadeIn)
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    ANIMATED TYPING EFFECT                     -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&random=false&width=700&height=60&lines=🚀+Full+Stack+.NET+Developer;⚙️+ASP.NET+Core+%7C+Web+API+%7C+C%23;🗄️+SQL+Server+%7C+Entity+Framework;🐳+Docker+%7C+RESTful+APIs;💡+Turning+Ideas+into+Scalable+Software)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&height=60&lines=🚀+Full+Stack+.NET+Developer;⚙️+ASP.NET+Core+%7C+Web+API+%7C+C%23;🗄️+SQL+Server+%7C+Entity+Framework;🐳+Docker+%7C+RESTful+APIs;💡+Building+Scalable+Web+Solutions)](https://git.io/typing-svg)
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    PROFILE VIEW COUNTER                       -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=1f6feb&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=1f6feb&labelColor=0d1117&label=FOLLOWERS)](https://github.com/YOUR_USERNAME)
-[![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&color=ffd700&labelColor=0d1117&label=TOTAL+STARS)](https://github.com/YOUR_USERNAME)
+![Profile Views](https://komarev.com/ghpvc/?username=FathiMahmoud10&color=1f6feb&style=for-the-badge&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/FathiMahmoud10?style=for-the-badge&color=1f6feb&labelColor=0d1117&label=FOLLOWERS)](https://github.com/FathiMahmoud10)
+[![GitHub stars](https://img.shields.io/github/stars/FathiMahmoud10?style=for-the-badge&color=ffd700&labelColor=0d1117&label=TOTAL+STARS)](https://github.com/FathiMahmoud10)
 
 </div>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        ABOUT ME                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🧑‍💻 About Me
 
 ```csharp
 var developer = new Developer
 {
-    Name        = "YOUR_NAME",
+    Name        = "Fathi Mahmoud",
     Role        = "Full Stack .NET Developer",
-    Location    = "Your City, Your Country",
+    Location    = "Fayoum, Egypt 🇪🇬",
     Languages   = new[] { "C#", "JavaScript", "SQL", "HTML", "CSS" },
     Frameworks  = new[] { "ASP.NET Core", "ASP.NET MVC", "Entity Framework" },
     Database    = new[] { "SQL Server" },
     DevOps      = new[] { "Docker", "Git", "GitHub" },
     CurrentFocus = "Building scalable REST APIs and modern web applications",
-    FunFact     = "I debug with coffee ☕ and fix bugs with more coffee"
+    FunFact     = "I debug with coffee ☕ and fix bugs with even more coffee"
 };
 ```
 
@@ -54,13 +38,10 @@ var developer = new Developer
 - 💼 &nbsp;Specializing in **RESTful API design and SQL Server optimization**
 - 🐳 &nbsp;Passionate about **containerized applications with Docker**
 - 🤝 &nbsp;Open to collaborating on **interesting .NET open-source projects**
+- 📍 &nbsp;Based in **Fayoum, Egypt 🇪🇬**
 - ⚡ &nbsp;Fun fact: **I turn coffee into C# code at an alarming rate**
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       TECH STACK                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🛠️ Tech Stack & Tools
 
@@ -101,117 +82,53 @@ var developer = new Developer
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      GITHUB STATS                             -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=FathiMahmoud10&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FathiMahmoud10&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=FathiMahmoud10&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e)](https://git.io/streak-stats)
 
 </div>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    CONTRIBUTION GRAPH                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 📈 Contribution Activity
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FathiMahmoud10&theme=github-compact&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    FEATURED PROJECTS                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/YOUR_USERNAME/project-one">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project-one&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb" />
-</a>
-<a href="https://github.com/YOUR_USERNAME/project-two">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project-two&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb" />
-</a>
-
-<a href="https://github.com/YOUR_USERNAME/project-three">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project-three&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb" />
-</a>
-<a href="https://github.com/YOUR_USERNAME/project-four">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project-four&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb" />
-</a>
-
-</div>
-
-> 💡 **Replace** `project-one`, `project-two`, etc. with your actual repository names.
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   ACHIEVEMENTS / TROPHIES                     -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=FathiMahmoud10&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      CONNECT WITH ME                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🤝 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fathi-mahmoud-992972378)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FathiMahmoud10)
 
 </div>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     RANDOM DEV QUOTE                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 💬 Dev Quote of the Day
-
-<div align="center">
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&quote=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&author=John%20Johnson)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        FOOTER                                 -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
